@@ -1,0 +1,1 @@
+This project's main objective is to extract data and translate it into hexadecimal code from the provided input text file. To do this conversion, each instruction in the input file must be represented using a syntax similar to XXXX YYYY, where XXXX denotes the program counter and YYYY denotes the decoded instruction.
